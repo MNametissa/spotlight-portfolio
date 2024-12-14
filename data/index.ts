@@ -72,98 +72,104 @@ export const gridItems = [
 export const projects = [
   {
     id: 1,
-    title: "3D Solar System Planets to Explore",
-    des: "Explore the wonders of our solar system with this captivating 3D simulation of the planets using Three.js.",
+    title: "Bancassurances Web Application",
+    des: "Designed and developed a custom banking and insurance web application with Next.js 14, integrating powerful APIs for authentication and feature services, elevating customer and admin management.",
     img: "/p1.svg",
-    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
-    link: "/ui.earth.com",
+    iconLists: [
+      "/next.svg",
+      "/react.svg",
+      "/tailwind.svg",
+      "/api.svg",
+      "/firebase.svg",
+    ],
+    link: "/ui.bancassurances.com",
   },
   {
     id: 2,
-    title: "Yoom - Video Conferencing App",
-    des: "Simplify your video conferencing experience with Yoom. Seamlessly connect with colleagues and friends.",
+    title: "Delta World Travel: Revitalized Web Experience",
+    des: "Enhanced the website copy and design to increase user engagement and boost traffic, delivering a seamless travel booking experience with intuitive navigation.",
     img: "/p2.svg",
-    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
-    link: "/ui.yoom.com",
+    iconLists: ["/react.svg", "/next.svg", "/tailwind.svg", "/seo.svg"],
+    link: "/ui.delta-world.com",
   },
   {
     id: 3,
-    title: "AI Image SaaS - Canva Application",
-    des: "A REAL Software-as-a-Service app with AI features and a payments and credits system using the latest tech stack.",
+    title: "Custom Odoo Modules for Chanas Assurances",
+    des: "Optimized and customized Odoo modules for Chanas Assurances, utilizing Python, XML, and Odoo’s OWL framework to improve scalability and operational efficiency.",
     img: "/p3.svg",
-    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
-    link: "/ui.aiimg.com",
+    iconLists: ["/python.svg", "/xml.svg", "/odoo.svg", "/tailwind.svg"],
+    link: "/ui.chanas-assurances.com",
   },
   {
     id: 4,
-    title: "Animated Apple Iphone 3D Website",
-    des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
+    title: "WordPress Blog Redesign for FYK Power Engineering",
+    des: "Revamped FYK Power Engineering's WordPress blog with modern HTML, CSS, and plugin integration, enhancing usability and aesthetics for a better user experience.",
     img: "/p4.svg",
-    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-    link: "/ui.apple.com",
+    iconLists: ["/wordpress.svg", "/html5.svg", "/css3.svg", "/tailwind.svg"],
+    link: "/ui.fyk-power.com",
   },
 ];
 
 export const testimonials = [
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+      "Collaborating with Marcel was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Marcel's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Marcel is the ideal partner.",
     name: "Michael Johnson",
     title: "Director of AlphaStream Technologies",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+      "Collaborating with Marcel was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Marcel's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Marcel is the ideal partner.",
     name: "Michael Johnson",
     title: "Director of AlphaStream Technologies",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+      "Collaborating with Marcel was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Marcel's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Marcel is the ideal partner.",
     name: "Michael Johnson",
     title: "Director of AlphaStream Technologies",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+      "Collaborating with Marcel was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Marcel's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Marcel is the ideal partner.",
     name: "Michael Johnson",
     title: "Director of AlphaStream Technologies",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+      "Collaborating with Marcel was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Marcel's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Marcel is the ideal partner.",
     name: "Michael Johnson",
     title: "Director of AlphaStream Technologies",
   },
 ];
 
 export const companies = [
+  // {
+  //   id: 1,
+  //   name: "cloudinary",
+  //   img: "/cloud.svg",
+  //   nameImg: "/cloudName.svg",
+  // },
   {
     id: 1,
-    name: "cloudinary",
-    img: "/cloud.svg",
-    nameImg: "/cloudName.svg",
-  },
-  {
-    id: 2,
     name: "appwrite",
     img: "/app.svg",
     nameImg: "/appName.svg",
   },
   {
-    id: 3,
+    id: 2,
     name: "HOSTINGER",
     img: "/host.svg",
     nameImg: "/hostName.svg",
   },
+  // {
+  //   id: 4,
+  //   name: "stream",
+  //   img: "/s.svg",
+  //   nameImg: "/streamName.svg",
+  // },
   {
-    id: 4,
-    name: "stream",
-    img: "/s.svg",
-    nameImg: "/streamName.svg",
-  },
-  {
-    id: 5,
+    id: 3,
     name: "docker.",
     img: "/dock.svg",
     nameImg: "/dockerName.svg",
@@ -173,29 +179,29 @@ export const companies = [
 export const workExperience = [
   {
     id: 1,
-    title: "Frontend Engineer Intern",
-    desc: "Assisted in the development of a web-based platform using React.js, enhancing interactivity.",
+    title: "Software Developer at KARBURA S.A",
+    desc: "Spearheaded the development of a custom banking and insurance web application using Next.js 14, integrating cutting-edge authentication and API services to streamline user and admin management.",
     className: "md:col-span-2",
     thumbnail: "/exp1.svg",
   },
   {
     id: 2,
-    title: "Mobile App Dev - JSM Tech",
-    desc: "Designed and developed mobile app for both iOS & Android platforms using React Native.",
-    className: "md:col-span-2", // change to md:col-span-2
+    title: "FullStack Developer at SESA Tech",
+    desc: "Revitalized Delta World Travel’s website with improved copywriting and optimized user experience. Conducted platform audits and fixed critical functionality gaps to enhance ResAndPay’s performance.",
+    className: "md:col-span-2",
     thumbnail: "/exp2.svg",
   },
   {
     id: 3,
-    title: "Freelance App Dev Project",
-    desc: "Led the dev of a mobile app for a client, from initial concept to deployment on app stores.",
-    className: "md:col-span-2", // change to md:col-span-2
+    title: "Software Developer at KARBURA S.A (Previous Role)",
+    desc: "Enhanced mobile applications TAMLAN and OpenLife with new API endpoints, while optimizing the Chanas Assurance Quote Web App, significantly improving API efficiency and the user interface.",
+    className: "md:col-span-2",
     thumbnail: "/exp3.svg",
   },
   {
     id: 4,
-    title: "Lead Frontend Developer",
-    desc: "Developed and maintained user-facing features using modern frontend technologies.",
+    title: "FullStack Developer & Consultant at SESA Tech",
+    desc: "Transformed the FYK Power Engineering WordPress blog with modern design and functionality. Audited and enhanced SMARTPOCHE’s eCommerce platform, boosting the user experience and overall performance.",
     className: "md:col-span-2",
     thumbnail: "/exp4.svg",
   },
@@ -204,14 +210,17 @@ export const workExperience = [
 export const socialMedia = [
   {
     id: 1,
+    link: "https://github.com/MNametissa",
     img: "/git.svg",
   },
   {
     id: 2,
+    link: "https://twitter.com/@MNametissa",
     img: "/twit.svg",
   },
   {
     id: 3,
+    link: "https://www.linkedin.com/in/marcel-avaika/",
     img: "/link.svg",
   },
 ];
